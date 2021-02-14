@@ -10,7 +10,7 @@
 > [Libft](https://github.com/GyeongahNa/Libft)
 
 **Second circle**
-> [get_next_line]()<br>
+> [get_next_line](https://github.com/GyeongahNa/get_next_line)<br>
 > [ft_printf]()<br>
 > netwhat<br>
 
